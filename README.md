@@ -9,7 +9,7 @@ Dashboard executivo em Power BI sobre o catálogo da Amazon Índia, construído 
 | Entregável | Onde está |
 |---|---|
 | Dashboard no Power BI (.pbix) | [`TechChallenge_Fase4_Dashboard.pbix`](TechChallenge_Fase4_Dashboard.pbix) |
-| Vídeo executivo, até 7 minutos | link incluído após a publicação |
+| Vídeo executivo, até 7 minutos | [Apresentação](https://youtu.be/f8-K8QNITyQ) |
 
 ---
 
